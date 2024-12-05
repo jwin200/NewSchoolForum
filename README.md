@@ -8,6 +8,9 @@ Open a terminal, create a folder and navigate to it with:
     `mkdir newschoolforum`
     `cd newschoolforum`
 
+Clone the repository to this folder:
+    `git clone https://github.com/jwin200/NewSchoolForum.git .`
+
 Launch a python virtual environment:
     `python3 -m venv .venv`
     `. .venv/bin/activate`
